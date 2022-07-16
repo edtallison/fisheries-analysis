@@ -1,3 +1,7 @@
+# Uses differential equation functions and numerical methods,
+# to simulate fish populations over 50 year time periods for 
+# 3 different management styles. Plots results.
+
 from functions import *
 from matplotlib import pyplot as plt
 

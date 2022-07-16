@@ -1,3 +1,5 @@
+# Tests for the functions in functions.py.
+
 from functions import solve_explicit_rk, step_ieuler, step_rk4
 import numpy as np
 

@@ -1,3 +1,6 @@
+# Numerical methods (Imrpoved Euler and RK4) solvers.
+# Derivative equations for 3 different fishery management styles.
+
 import numpy as np
 
 def step_ieuler(f, tk, yk, h, args=None):

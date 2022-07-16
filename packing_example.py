@@ -1,3 +1,5 @@
+# Example/template for using packing of arguments in functions.
+
 def solve_explicit_rk(f, t0, t1, y0, h, method='rk4', args=None):
     if args is None:
         args = []
